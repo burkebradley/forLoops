@@ -9,7 +9,9 @@ public class forLoops
 				System.out.println();
 			//	showGeniusTwo();
 			//	showGeniusThree();
-				showGeniusFour();
+			//	showGeniusFour();
+			//	showGeniusFive();
+				showGeniusSix();
 
 			}
 		public static void showGeniusOne()
@@ -31,13 +33,24 @@ public class forLoops
 					System.out.print(i);
 				}
 			}
-		public static void showGeniusFour();
+		public static void showGeniusFour()
 			{
 			for (int i = 10; i > 0; i--)
 				{
 					System.out.println(i);
 				}
-			System.out.println("");
+			System.out.println("LIFTOFF!");
 				
 			}
+		public static void showGeniusFive()
+			{
+			for (int i = 5; i < 101; i=i+5)
+				{
+					System.out.println(i);
+				}
+			}
+		public static void showGeniusSix()
+		{
+			
+		}
 	}
