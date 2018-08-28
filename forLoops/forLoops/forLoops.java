@@ -5,12 +5,12 @@ public class forLoops
 
 		public static void main(String[] args)
 			{
-			//	showGeniusOne();
+				showGeniusOne();
 				System.out.println();
-			//	showGeniusTwo();
-			//	showGeniusThree();
-			//	showGeniusFour();
-			//	showGeniusFive();
+				showGeniusTwo();
+				showGeniusThree();
+				showGeniusFour();
+				showGeniusFive();
 				showGeniusSix();
 
 			}
